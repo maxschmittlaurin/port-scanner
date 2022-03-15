@@ -11,3 +11,7 @@ First, make sure [Python 3](https://www.python.org/downloads/) is installed on y
 Then run the program with the following command :
 
 	python PortScanner.py
+	
+## IMPORTANT NOTICE
+
+This source code is meant for educational purposes only and should not be used for malicious activity.
