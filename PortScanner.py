@@ -1,5 +1,7 @@
 # Author : Maximilien Schmitt-Laurin
 
+# IMPORTANT NOTICE :
+# The following source code is meant for educational purposes only and should not be used for malicious activity.
 
 # This is a simple port scanner that detects which ports are open and which ones are close/filtered.
 # This script uses the socket api to see if you can connect to a port on a specified ip address. 
