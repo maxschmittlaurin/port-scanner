@@ -15,3 +15,7 @@ Then run the program with the following command :
 ## IMPORTANT NOTICE
 
 This source code is meant for educational purposes only and should not be used for malicious activity.
+
+## Description
+
+A script that detects which ports on a remote host are open.
