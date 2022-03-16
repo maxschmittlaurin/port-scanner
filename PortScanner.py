@@ -1,5 +1,7 @@
 # Author : Maximilien Schmitt-Laurin
 
+
+# This is a simple port scanner that detects which ports are open and which ones are close/filtered.
 # This script uses the socket api to see if you can connect to a port on a specified ip address. 
 # Once you've successfully connected a port is seen as open.
 # This script does not discriminate the difference between filtered and closed ports.
