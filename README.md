@@ -18,4 +18,4 @@ This source code is meant for educational purposes only and should not be used f
 
 ## Description
 
-A script that detects which ports on a remote host are open.
+A script that detects which ports are open on a remote host.
